@@ -81,15 +81,15 @@ main {
 
 @media screen and (max-width: 800px) {
 
-    body {
-        height: 10vh;
+    main {
+        height: 200vh;
     }
 
     header {
-        width: 120vw;
-        height: 15vh;
-        font-size: 25px;
-        padding-top: 50px;
+        width: 310vw;
+        height: 50vh;
+        font-size: 50px;
+        padding-top: 200px;
     }
     #global {
         display: flex;
@@ -97,11 +97,11 @@ main {
         width: 100%;
     }
     #left {
-        margin-left: 30vw;
-        font-size: 30px;
+        margin-left: 90vw;
+        font-size: 50px;
     }
     .texto {
-        width: 75vw;
+        width: 120vw;
         height: 5vh;
     }
     #resumo {
